@@ -1,0 +1,14 @@
+li{
+    display: inline; font-family: Verdana, Geneva, Tahoma, roboto; float: right;padding: 8px;
+    background-color:rgb(8, 9, 9); font-weight: 800;
+}
+li a:hover {
+    background-color: #08f055;
+  }
+  .maclasse {
+     color: #f9f7f7;
+  }
+  tr:hover {
+    background-color: #08f055;
+  }
+  
